@@ -1,0 +1,16 @@
+body {
+  background-color: #eef;
+  font-family: sans-serif;
+  padding: 20px;
+}
+button {
+  background-color: #44c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+pre {
+  margin-top: 15px;
+  background: #fff;
+  padding: 10px;
+}

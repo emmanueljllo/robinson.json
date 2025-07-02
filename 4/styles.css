@@ -1,0 +1,27 @@
+body {
+  background-color: #ffebee;
+  font-family: sans-serif;
+  padding: 20px;
+}
+button {
+  background-color: #c62828;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+button:hover {
+  background-color: #8e0000;
+}
+pre {
+  background: #fff;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 15px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: monospace;
+}
