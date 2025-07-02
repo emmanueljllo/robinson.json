@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, serif;
+  padding: 20px;
+}
+
+h2 {
+  color: #8e44ad;
+}
+
+button {
+  background-color: #9b59b6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8e44ad;
+}
+
+pre {
+  margin-top: 20px;
+  background-color: #fafafa;
+  padding: 12px;
+  border-left: 4px solid #9b59b6;
+  border-radius: 4px;
+}
